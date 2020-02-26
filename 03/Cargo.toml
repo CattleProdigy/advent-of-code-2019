@@ -1,0 +1,4 @@
+[package]
+name = "aoc_03"
+version = "0.0.1"
+authors = ["Paul"]

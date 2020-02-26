@@ -1,0 +1,8 @@
+[package]
+name = "aoc_17"
+version = "0.0.1"
+authors = ["Paul"]
+
+[dependencies]
+nalgebra = "0.18"
+# rustbox = "0.11"

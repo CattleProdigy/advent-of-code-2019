@@ -1,0 +1,7 @@
+[package]
+name = "aoc_07"
+version = "0.0.1"
+authors = ["Paul"]
+
+[dependencies]
+itertools = "0.8.2"
